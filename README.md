@@ -1,5 +1,4 @@
 # smart-cv-analyzer
-# smart-cv-analyzer
 
 A simple Python tool designed to analyze the match rate between a resume (CV) and a job description by comparing keywords.
 
